@@ -1,2 +1,2 @@
 # maskdetectionFolder
-![object detection](./desktop/Untitled1.png)
+![Image of Yaktocat](https://files.fm/u/jxn3pja8m)
