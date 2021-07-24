@@ -1,2 +1,2 @@
 # maskdetectionFolder
-![plot](./desktop/Untitled1.png)
+![object detection](./desktop/Untitled1.png)
